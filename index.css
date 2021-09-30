@@ -1,0 +1,44 @@
+#a{
+    align-items: center;
+    font-weight: bold;
+    align-self: right;
+    font-family: 'Pacifico', cursive;
+}
+#ab{
+    background-image: url(abcdefg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:-5cm;
+}
+body{
+    background-image: url(3628152.jpg);
+}
+.img1{
+    height: 500px;
+    width:100%;
+}
+#abcs{
+    color: red;
+    
+}
+#logo{
+    text-align: justify;
+}
+.i{
+    margin-left:100px;
+}
+.j{
+    margin-left:290px;
+}
+.k{
+    margin-left:90px;
+}
+#GOD{
+    height: 5cm;
+}
+.button{
+  border-width: 0.5cm;
+}
+.h{
+    height:300px;
+}
